@@ -9,6 +9,10 @@ Ce projet Spark simule le parcours en largeur d'un graphe parallélisable. Chaqu
 
 - sur la machine virtuelle:
 
+    + mettre le fichier graphe.txt sur hdfs
+
+        `hadoop fs -put graphe.txt /`
+
     + definir l'environnement python sur python 3
 
 
